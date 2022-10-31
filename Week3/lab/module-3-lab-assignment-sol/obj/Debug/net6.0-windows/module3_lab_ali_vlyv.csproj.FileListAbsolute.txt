@@ -1,0 +1,17 @@
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.csproj.AssemblyReference.cache
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.frm_user_registration_application.resources
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.csproj.GenerateResource.cache
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.AssemblyInfoInputs.cache
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.AssemblyInfo.cs
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.csproj.CoreCompileInputs.cache
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\bin\Debug\net6.0-windows\module3_lab_ali_vlyv.exe
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\bin\Debug\net6.0-windows\module3_lab_ali_vlyv.deps.json
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\bin\Debug\net6.0-windows\module3_lab_ali_vlyv.runtimeconfig.json
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\bin\Debug\net6.0-windows\module3_lab_ali_vlyv.dll
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\bin\Debug\net6.0-windows\module3_lab_ali_vlyv.pdb
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.dll
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\refint\module3_lab_ali_vlyv.dll
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.pdb
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\module3_lab_ali_vlyv.genruntimeconfig.cache
+C:\Users\seymu\source\repos\module3_lab_ali_vlyv\module3_lab_ali_vlyv\obj\Debug\net6.0-windows\ref\module3_lab_ali_vlyv.dll

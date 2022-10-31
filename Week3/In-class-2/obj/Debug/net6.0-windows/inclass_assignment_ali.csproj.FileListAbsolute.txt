@@ -1,0 +1,17 @@
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.csproj.AssemblyReference.cache
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.Form1.resources
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.csproj.GenerateResource.cache
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.AssemblyInfoInputs.cache
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.AssemblyInfo.cs
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.csproj.CoreCompileInputs.cache
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\bin\Debug\net6.0-windows\inclass_assignment_ali.exe
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\bin\Debug\net6.0-windows\inclass_assignment_ali.deps.json
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\bin\Debug\net6.0-windows\inclass_assignment_ali.runtimeconfig.json
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\bin\Debug\net6.0-windows\inclass_assignment_ali.dll
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\bin\Debug\net6.0-windows\inclass_assignment_ali.pdb
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.dll
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\refint\inclass_assignment_ali.dll
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.pdb
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\inclass_assignment_ali.genruntimeconfig.cache
+C:\Users\seymu\source\repos\inclass_assignment_ali\inclass_assignment_ali\obj\Debug\net6.0-windows\ref\inclass_assignment_ali.dll

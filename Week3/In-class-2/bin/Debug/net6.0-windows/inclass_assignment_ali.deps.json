@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inclass_assignment_ali/1.0.0": {
+        "runtime": {
+          "inclass_assignment_ali.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inclass_assignment_ali/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
