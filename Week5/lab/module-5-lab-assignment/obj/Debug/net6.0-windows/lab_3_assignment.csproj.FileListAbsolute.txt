@@ -1,0 +1,17 @@
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.csproj.AssemblyReference.cache
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.Form1.resources
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.csproj.GenerateResource.cache
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.AssemblyInfoInputs.cache
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.AssemblyInfo.cs
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.csproj.CoreCompileInputs.cache
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\bin\Debug\net6.0-windows\lab_3_assignment.exe
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\bin\Debug\net6.0-windows\lab_3_assignment.deps.json
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\bin\Debug\net6.0-windows\lab_3_assignment.runtimeconfig.json
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\bin\Debug\net6.0-windows\lab_3_assignment.dll
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\bin\Debug\net6.0-windows\lab_3_assignment.pdb
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.dll
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\refint\lab_3_assignment.dll
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.pdb
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\lab_3_assignment.genruntimeconfig.cache
+C:\Users\seymu\source\repos\lab_3_assignment\lab_3_assignment\obj\Debug\net6.0-windows\ref\lab_3_assignment.dll
