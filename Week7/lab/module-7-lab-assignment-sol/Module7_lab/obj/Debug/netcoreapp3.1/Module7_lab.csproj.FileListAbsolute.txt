@@ -1,0 +1,34 @@
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.exe
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.deps.json
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.runtimeconfig.json
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.runtimeconfig.dev.json
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.dll
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\bin\Debug\netcoreapp3.1\Module7_lab.pdb
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.AssemblyReference.cache
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module6_lab.Form1.resources
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.GenerateResource.cache
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfoInputs.cache
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfo.cs
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.CoreCompileInputs.cache
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.dll
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.pdb
+C:\Users\Erkan Er\source\repos\Module6_lab\Module6_lab\obj\Debug\netcoreapp3.1\Module7_lab.genruntimeconfig.cache
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.AssemblyReference.cache
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module6_lab.Form1.resources
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.GenerateResource.cache
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfoInputs.cache
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfo.cs
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.CoreCompileInputs.cache
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.dll
+C:\Users\Erkan Er\source\repos\Module7_lab_student\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.pdb
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.AssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module6_lab.Form1.resources
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfoInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.AssemblyInfo.cs
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.dll
+C:\Users\sinan\OneDrive\Masaüstü\module6_Ali\Module7_lab\obj\Debug\netcoreapp3.1\Module7_lab.pdb
