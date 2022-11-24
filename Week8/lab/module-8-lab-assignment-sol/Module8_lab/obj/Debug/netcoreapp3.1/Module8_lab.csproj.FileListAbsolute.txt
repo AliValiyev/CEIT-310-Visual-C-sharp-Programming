@@ -1,0 +1,32 @@
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.exe
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.deps.json
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.runtimeconfig.json
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.runtimeconfig.dev.json
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.dll
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.pdb
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.AssemblyReference.cache
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.Form1.resources
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.GenerateResource.cache
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.AssemblyInfoInputs.cache
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.AssemblyInfo.cs
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.CoreCompileInputs.cache
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.dll
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.pdb
+C:\Users\Erkan Er\source\repos\Module8_lab\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.genruntimeconfig.cache
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.exe
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.deps.json
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.runtimeconfig.json
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.runtimeconfig.dev.json
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.dll
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\bin\Debug\netcoreapp3.1\Module8_lab.pdb
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.AssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.Form1.resources
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.AssemblyInfoInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.AssemblyInfo.cs
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.dll
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.pdb
+C:\Users\sinan\OneDrive\Masaüstü\lab8_Ali\Module8_lab\obj\Debug\netcoreapp3.1\Module8_lab.genruntimeconfig.cache
