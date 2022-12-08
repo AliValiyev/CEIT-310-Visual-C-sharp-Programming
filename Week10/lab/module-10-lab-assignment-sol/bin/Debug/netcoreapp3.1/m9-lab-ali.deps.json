@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "m9-lab-ali/1.0.0": {
+        "runtime": {
+          "m9-lab-ali.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m9-lab-ali/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

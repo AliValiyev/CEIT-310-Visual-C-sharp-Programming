@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.exe
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.deps.json
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.runtimeconfig.json
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.runtimeconfig.dev.json
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.dll
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.pdb
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.AssemblyInfo.cs
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.dll
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.pdb
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.genruntimeconfig.cache
+C:\Users\asus\source\repos\m9-lab-ali\m9-lab-ali\bin\Debug\netcoreapp3.1\m9-lab-ali.frm_teamBase.resources
